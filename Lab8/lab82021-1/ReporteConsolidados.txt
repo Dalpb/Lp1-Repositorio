@@ -1,0 +1,119 @@
+Conductor:          LEYVA SAM DIANA DELIA
+Licencia No.        50200823
+Monto de Multas:    4572.52
+Puntos perdidos:    2200
+Meses sancionados:  0
+
+
+Conductor:          AVILA DEL CASTILLO ANNIE
+Licencia No.        54447051
+Monto de Multas:    8998.89
+Puntos perdidos:    3500
+Meses sancionados:  6
+
+
+Conductor:          EGUSQUIZA BERROCAL DORIS NANCY
+Licencia No.        82031355
+Monto de Multas:    5444.68
+Puntos perdidos:    2600
+Meses sancionados:  3
+
+
+Conductor:          LEYVA LANDEO NANCY SONIA
+Licencia No.        34248357
+Monto de Multas:    12869.1
+Puntos perdidos:    5300
+Meses sancionados:  11
+
+
+Conductor:          MERCADO CORONEL ELIA
+Licencia No.        66849703
+Monto de Multas:    2998.05
+Puntos perdidos:    1400
+Meses sancionados:  2
+
+
+Conductor:          AVILA REYES TATIANA
+Licencia No.        70414420
+Monto de Multas:    2996.47
+Puntos perdidos:    3600
+Meses sancionados:  12
+
+
+Conductor:          BACA CAMACHO MILAGROS NATALIA
+Licencia No.        16477908
+Monto de Multas:    6711.05
+Puntos perdidos:    3800
+Meses sancionados:  19
+
+
+Conductor:          PRADO VERA JUAN
+Licencia No.        88167677
+Monto de Multas:    7098.94
+Puntos perdidos:    4300
+Meses sancionados:  0
+
+
+Conductor:          CHAVEZ BERROCAL JOHAN
+Licencia No.        51929951
+Monto de Multas:    1735.63
+Puntos perdidos:    1200
+Meses sancionados:  0
+
+
+Conductor:          CAMACHO PAIRAZAMAN YDALI LUCERO
+Licencia No.        29989682
+Monto de Multas:    5842.05
+Puntos perdidos:    2500
+Meses sancionados:  4
+
+
+Conductor:          RETAMOSO SALAMANCA DELIA MARITZA
+Licencia No.        30441350
+Monto de Multas:    5995.31
+Puntos perdidos:    5200
+Meses sancionados:  14
+
+
+Conductor:          RAFFO CORONADO ROLANDO
+Licencia No.        48878256
+Monto de Multas:    9315.68
+Puntos perdidos:    5500
+Meses sancionados:  6
+
+
+Conductor:          BRAVO CORTES JANET FLOR
+Licencia No.        15559308
+Monto de Multas:    9628.52
+Puntos perdidos:    3400
+Meses sancionados:  6
+
+
+Conductor:          FARFAN SALAZAR MARGOT
+Licencia No.        77763722
+Monto de Multas:    13030.3
+Puntos perdidos:    6300
+Meses sancionados:  24
+
+
+Conductor:          DIAZ TANG ENRIQUE
+Licencia No.        60335381
+Monto de Multas:    11768.6
+Puntos perdidos:    5000
+Meses sancionados:  25
+
+
+Conductor:          CANO POLO MILAGROS ISABEL
+Licencia No.        68310808
+Monto de Multas:    4731.31
+Puntos perdidos:    2300
+Meses sancionados:  1
+
+
+Conductor:          NARVAEZ CASTILLO JESUS RAFAEL
+Licencia No.        58992942
+Monto de Multas:    1735.63
+Puntos perdidos:    1200
+Meses sancionados:  0
+
+
